@@ -1,0 +1,11 @@
+D:\Code\C#\Projetos\geradorSenhas\bin\Debug\geradorSenhas.exe.config
+D:\Code\C#\Projetos\geradorSenhas\bin\Debug\geradorSenhas.exe
+D:\Code\C#\Projetos\geradorSenhas\bin\Debug\geradorSenhas.pdb
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.csproj.AssemblyReference.cache
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.csproj.SuggestedBindingRedirects.cache
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.Form1.resources
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.Properties.Resources.resources
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.csproj.GenerateResource.cache
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.csproj.CoreCompileInputs.cache
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.exe
+D:\Code\C#\Projetos\geradorSenhas\obj\Debug\geradorSenhas.pdb
